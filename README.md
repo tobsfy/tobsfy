@@ -1,40 +1,42 @@
-<h1 align="center">👋 Hey, I'm Tobi! </h1>
+# 👋 Hey, I'm Tobi!
 
-<p align="center">
-  🚀 Aspiring Cybersecurity Specialist | Python Developer  
-  <br>🔒 ITF+ Student | Learning Ethical Hacking & Network Security  
-</p>
-
----
-
-### 💻 About Me  
-🔹 **Currently Learning:** Python Basics, Cybersecurity (ITF+)  
-🔹 **Next Goal:** Earn ITF+ Certification & Build Security Labs  
-🔹 **Interests:** Penetration Testing, Automation, Linux Security  
+🚀 Future AI Engineer | Software Developer | Cloud Enthusiast  
+🎯 Focused on Building Scalable Systems, AI Applications, and Backend Platforms  
+🎓 Incoming Computer Science Student | Revoya Project Contributor
 
 ---
 
-### 🛠️ Skills & Tools  
-- 🐍 Python | Bash Scripting  
-- 🖥️ Linux (Kali, Ubuntu) | Windows Security  
-- 🔐 Cybersecurity Basics | Networking | CTF Challenges  
-- ⚡ Git & GitHub | Markdown  
+## 🚀 About Me
+- Currently Learning: Python Development, Backend Engineering, Cloud Fundamentals, and AI Basics
+- Passionate About: Problem-Solving, Ethical Tech, and Building Systems That Matter
+- Big Dream: To become a world-class engineer working on impactful AI and cloud-native products.
 
 ---
 
-### 🚀 Projects & Progress  
-📌 **[Python-Projects](https://github.com/tobsfy/Python-Projects)** – My coding journey  
-📌 **[CyberSec-Labs](https://github.com/tobsfy/CyberSec-Labs)** – Hands-on security experiments  
-
-_(More coming soon as I learn!)_
-
----
-
-### 📢 Connect with Me  
-🌐 **LinkedIn:** _Coming Soon_  
-🐦 **Twitter/X:** _Coming Soon_  
-📫 **Email:** _[your-email@example.com](mailto:your-email@example.com)_  
+## 🛠️ Skills & Tools (In Progress)
+- **Programming:** Python (core language), Bash Scripting (basics)
+- **Web Development:** Flask (beginner), HTML/CSS
+- **AI/ML:** Teachable Machine, TensorFlow Lite (beginner projects)
+- **Cloud:** AWS Free Tier (hands-on practice coming soon)
+- **Version Control:** Git, GitHub
+- **Other:** Architecture Diagrams, Markdown, API Basics
 
 ---
 
-⚡ **Fun Fact:** "Hackers build, test, and secure. I’m here to do all three!"  
+## 📚 Current Projects & Learning Journey
+- **Revoya Training Repository:** Building backend services, AI demos, and internal tools
+- **Mini Python Projects:** From calculators to small web apps
+- **Architecture Mapping:** Designing how software systems connect and work
+- **AI Demos:** Exploring hands-on machine learning experiments
+
+---
+
+## ✨ Goals for 2025
+- Contribute professionally to Revoya’s platform development
+- Build 10+ real-world projects
+- Master backend + cloud fundamentals
+- Land internships or junior engineer roles with tech-forward companies (Netflix, Google, Revoya!)
+
+---
+
+📫 Feel free to connect with me — I'm always learning and building!
